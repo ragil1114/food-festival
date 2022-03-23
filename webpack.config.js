@@ -1,5 +1,6 @@
 const path = require("path");
 
+// main configuration object
 module.exports = {
     entry: './assets/js/script.js',
     output: {
