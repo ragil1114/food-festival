@@ -65,6 +65,7 @@ const config = {
     })
   ],
   mode: 'development',
+  /*
   devServer: {
     static: {
       directory: path.join(__dirname, './'),
@@ -72,6 +73,7 @@ const config = {
     compress: true,
     port: 8080,
   },
+  */
 };
 
 module.exports = config;
